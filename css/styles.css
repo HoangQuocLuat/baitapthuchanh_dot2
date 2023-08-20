@@ -1,6 +1,13 @@
-.c3_class{
-    color: aqua;
-}
-#c3_id{
-    color: royalblue;
-}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    /* background-color: #96D4D4; */
+    padding: 15px;
+  }
+  /* td:nth-child(even) {
+    background-color: #D6EEEE;
+  } */
+ 
