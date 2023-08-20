@@ -7,26 +7,27 @@
     <title>Document</title>
     <link rel="stylesheet" href="../css/styles.css">
     <style>
-        h2   {color: red;}
+        button:hover {
+          color: red;
+          background-color: transparent;
+          text-decoration: underline;
+        }
+        
+        button:active {
+          color: yellow;
+          background-color: transparent;
+          text-decoration: underline;
+        }
         </style>
 </head>
 
 <body>
-   <h1 style="color:blue;">
-    cách 1
-   </h1>
-   <h2>
-    cách 2
-   </h2>
-   <h3 class="c3_class">
-    cách 3 class 1
-   </h3>
-   <h2 class="c3_class">
-    cách 3 class 2
-   </h2>
-   <h3 id="c3_id">
-    cách 3 
-   </h3>
+    <button onclick="myFunction()">HTML Tutorial</button>
+    <p id ='demo'>đổi màu</p>
 </body>
-
+<script>
+    function myFunction() {
+      document.getElementById("demo").style.color = "red";
+    }
+    </script>
 </html>
