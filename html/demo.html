@@ -8,26 +8,30 @@
     <link rel="stylesheet" href="../css/styles.css">
     <style>
         button:hover {
-          color: red;
-          background-color: transparent;
-          text-decoration: underline;
+            color: red;
+            background-color: transparent;
+            text-decoration: underline;
         }
-        
+
         button:active {
-          color: yellow;
-          background-color: transparent;
-          text-decoration: underline;
+            color: yellow;
+            background-color: transparent;
+            text-decoration: underline;
         }
-        </style>
+    </style>
 </head>
 
 <body>
-    <button onclick="myFunction()">HTML Tutorial</button>
-    <p id ='demo'>đổi màu</p>
+    <h2>Image Maps</h2>
+    <p>Click on the cup of coffee to go to a new page and read more about the topic:</p>
+
+    <img src="../imgs/Ảnh-chụp-Màn-hình-2022-04-26-lúc-11.36.03.png" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+    <map name="workmap">
+        <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="../imgs/tree.png">
+    </map>
+
 </body>
-<script>
-    function myFunction() {
-      document.getElementById("demo").style.color = "red";
-    }
-    </script>
+
+
 </html>
