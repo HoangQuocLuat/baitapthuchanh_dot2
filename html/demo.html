@@ -10,9 +10,127 @@
 </head>
 
 <body>
-    <iframe name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
-
-<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        <div class = "pic">
+            <h2><a href="#">Khoa CNTT HUMG</a></h2>
+            <div class = "table">
+                <h4 style=" margin-bottom: 0px">Departments</h4>      
+                <table> 
+                    <tr>
+                        <th>STT</th>
+                        <th>Department</th>
+                        <th>Address</th>
+                        <th>Phone</th>
+                        <th>Email</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td><a href="#">Tin học trắc địa</a></td>
+                        <td>709 nhà 12 tầng</td>
+                        <td>0909999</td>
+                        <td>tinhoctracdia@humg.edu.vn</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td><a href="#">CNPM</a></td>
+                        <td>702 nhà 12 tầng</td>
+                        <td>090955555</td>
+                        <td>cnpm@humg.edu.vn</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td><a href="#">Tin học kinh tế</a></td>
+                        <td>708 nhà 12 tầng</td>
+                        <td>09066666</td>
+                        <td>thkt@humg.edu.vn</td>
+                    </tr>
+                </table>
+            </div>
+            <div>
+                <h4>Chuyên ngành trong khoa</h4>
+                <ul>
+                    <li>CNTT Địa học</li>
+                    <li>CNPM</li>
+                    <li>THKT</li>
+                    <li>KHMT</li>
+                    <li>HTTT</li>
+                </ul>
+            </div>
+            <div>
+                <h4>Trang web này của HUMG</h4>
+                <img class ="imgs" src="../imgs//Ảnh-chụp-Màn-hình-2022-04-26-lúc-11.36.03.png" alt="HUMG">
+            </div>
+        </div>
+        <div class = "pic">
+            <h2>Lựa chọn chuyên ngành</h2>
+            <form>
+                <label>chọn chuyên ngành: </label>
+                <select id="op">
+                    <option value="op1">CNTT Địa học</option>
+                    <option value="op2">Công Nghệ Phần Mềm</option>
+                    <option value="op3">Khoa Học Máy Tính</option>
+                    <option value="op4">Tin Học Kinh Tế</option>
+                    <option value="op5">Hệ Thống Thông Tin</option>
+                </select>
+            </form>
+            <h3>Lựa chọn môn học</h3>
+            <div style="width: 300px; height: 100px; display: block; border: 1px black solid;" >
+                <ul style="list-style-type: none;">
+                    <li>Phát triển ứng dụng web</li>
+                    <li>Python</li>
+                    <li>Phát triển ứng dụng web với Python</li>
+                    <li>Cơ sở lập trình</li>
+                </ul>
+            </div>
+            <h3>Ý kiến phản hồi</h3>
+            <textarea  style="width: 200px; height: 200px;"></textarea>
+            <br>
+            <input type="submit" value="submit">
+        </div>
+        <div class="pic" style="margin-top: 30px;">
+            <h2>Sign up</h2>
+            <p>It's free and always will be</p>
+            <form >
+                <input type="text" placeholder="first name">
+                <input type="text" placeholder="surname">
+                <br>
+                <input type="text" placeholder="phone or email">
+                <br>
+                <input type="text" placeholder="ReEnter phone or email">
+                <br>
+                <input type="text" placeholder="new password">
+            </form>
+            <h3>Birth day</h3>
+            <div style="display: flex;">
+                <input type ="date" style="margin-right: 10px;">
+                <p>why do need to provide my date or birth?</p>
+            </div>
+            <div style="display: flex; justify-content: center;">
+                <img src="../imgs/Facebook_Logo_(2019).png.webp" alt="fb" style="width: 100px; height: 100px;">
+            </div>
+            <br>
+            <input type="radio">
+            <label>Male</label>
+            <input type="radio">
+            <label>Female</label>
+            <br>
+            <input type="submit" value="Create account">
+        </div>
+        <div class="pic" style="padding-top: 10px; margin-top: 30px;">
+            <form>
+                <label>User Name: </label>
+                <input type="text" placeholder="input username">
+                <br>
+                <label>Password: </label>
+                <input type="text" placeholder="input password">
+                <br>
+                <label>Remember me: </label>
+                <input type="checkbox">
+                <br>
+                <input type="submit" value="Log in">
+            </form>
+        </div>
+    </div>
 </body>
 
 

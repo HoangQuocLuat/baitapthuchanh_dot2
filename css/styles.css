@@ -1,13 +1,18 @@
-
+.pic {
+  width: calc(50% - 15px);
+  display: block;
+  border: 1px solid black;
+}
 table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-  }
-  th, td {
-    /* background-color: #96D4D4; */
-    padding: 15px;
-  }
-  /* td:nth-child(even) {
-    background-color: #D6EEEE;
-  } */
- 
+  border: 2px inset;
+  background-color: aquamarine;
+}
+.table{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.imgs {
+  width: 350px;
+  height: 300px;
+}
