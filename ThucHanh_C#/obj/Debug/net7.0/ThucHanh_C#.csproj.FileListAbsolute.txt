@@ -1,0 +1,14 @@
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ThucHanh_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ThucHanh_C#.AssemblyInfoInputs.cache
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ThucHanh_C#.AssemblyInfo.cs
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ThucHanh_C#.csproj.CoreCompileInputs.cache
+D:\baitapthuchanh_dot2\ThucHanh_C#\bin\Debug\net7.0\ThucHanh_C#.exe
+D:\baitapthuchanh_dot2\ThucHanh_C#\bin\Debug\net7.0\ThucHanh_C#.deps.json
+D:\baitapthuchanh_dot2\ThucHanh_C#\bin\Debug\net7.0\ThucHanh_C#.runtimeconfig.json
+D:\baitapthuchanh_dot2\ThucHanh_C#\bin\Debug\net7.0\ThucHanh_C#.dll
+D:\baitapthuchanh_dot2\ThucHanh_C#\bin\Debug\net7.0\ThucHanh_C#.pdb
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ThucHanh_C#.dll
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\refint\ThucHanh_C#.dll
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ThucHanh_C#.pdb
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ThucHanh_C#.genruntimeconfig.cache
+D:\baitapthuchanh_dot2\ThucHanh_C#\obj\Debug\net7.0\ref\ThucHanh_C#.dll

@@ -1,1 +1,24 @@
-<h1>Hello</h1>
+<form asp-action="Index" method = "post">
+    <input type="number" name = "a" placeholder="nhập hệ số a">
+    <br/>
+    <input type="number" name = "b" placeholder="nhập hệ số b">
+    <br/>
+    <input type="number" name = "c" placeholder="nhập hệ số c">
+    <br/>
+    <input type="submit">
+</form>
+@if (ViewBag.X1 != 0 && ViewBag.X2 != 0)
+    {
+        <p>Phuong trinh co 2 nghiem:</p>
+        <p>x1 = @ViewBag.X1</p>
+        <p>x2 = @ViewBag.X2</p>
+    }
+    else if (ViewBag.X1 != 0)
+    {
+        <p>Phuong trinh co 1 nghiem kep:</p>
+        <p>x = @ViewBag.X1</p>
+    }
+    else
+    {
+        <p>Phuong trinh vo nghiem.</p>
+    }
