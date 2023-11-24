@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcProject", "MvcProject\MvcProject.csproj", "{8E7B672A-A65B-4FF8-9132-E4E3A4181AF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThucHanh_C#", "ThucHanh_C#\ThucHanh_C#.csproj", "{DA225378-B889-43CD-BA1B-7C24B522360D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7B672A-A65B-4FF8-9132-E4E3A4181AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7B672A-A65B-4FF8-9132-E4E3A4181AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7B672A-A65B-4FF8-9132-E4E3A4181AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7B672A-A65B-4FF8-9132-E4E3A4181AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA225378-B889-43CD-BA1B-7C24B522360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA225378-B889-43CD-BA1B-7C24B522360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA225378-B889-43CD-BA1B-7C24B522360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA225378-B889-43CD-BA1B-7C24B522360D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80C0DB3-DB6D-4C74-AD4F-D8C853DDB6ED}
+	EndGlobalSection
+EndGlobal
