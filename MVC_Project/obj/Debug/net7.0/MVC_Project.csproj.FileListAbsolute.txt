@@ -462,7 +462,6 @@ F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Wo
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
@@ -486,8 +485,6 @@ F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win-arm\native\e_sq
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 F:\baitapthuchanh_dot2\MVC_Project\obj\Debug\net7.0\MVC_Project.csproj.AssemblyReference.cache
@@ -514,3 +511,11 @@ F:\baitapthuchanh_dot2\MVC_Project\obj\Debug\net7.0\refint\MVC_Project.dll
 F:\baitapthuchanh_dot2\MVC_Project\obj\Debug\net7.0\MVC_Project.pdb
 F:\baitapthuchanh_dot2\MVC_Project\obj\Debug\net7.0\MVC_Project.genruntimeconfig.cache
 F:\baitapthuchanh_dot2\MVC_Project\obj\Debug\net7.0\ref\MVC_Project.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\EPPlus.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\EPPlus.Interfaces.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\baitapthuchanh_dot2\MVC_Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
